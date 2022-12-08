@@ -1,0 +1,4 @@
+https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__EXECUTION.html#group__CUDART__EXECUTION_1g504b94170f83285c71031be6d5d15f73
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#grid-synchronization-cg
+https://itecnote.com/tecnote/cuda-block-synchronization/
+https://stackoverflow.com/questions/6404992/cuda-block-synchronization
